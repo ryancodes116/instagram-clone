@@ -1,4 +1,3 @@
-CREATE DATABASE instagram_clone;
 USE instagram_clone;
 
 -- create users table
